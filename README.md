@@ -112,6 +112,11 @@
 * https://github.com/neko-dev/neohosts
 * Google Hosts 请移步 https://github.com/googlehosts/hosts
 
+# 使用本地subconverter的本地策略组 add by dwwangzz
+1. 把ACL4SSR的Clash目录，覆盖subconverter的%HOME%/rules/ACL4SSR/Clash目录
+   - 此操作可以不做，目的是为了更新本地策略组
+2. 使用在sub-web中选择本地策略组配置文件即可 
+   - 如选择，本地策略文件即可。如：rules/ACL4SSR/Clash/config/ACL4SSR_Full_wzz.ini
 
 # 注：
 

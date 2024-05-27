@@ -1,0 +1,16 @@
+# United States Nodes
+
+# ChatGPT相关网站
+DOMAIN-SUFFIX, bing.com
+DOMAIN-SUFFIX, beta.character.ai
+
+# bard
+DOMAIN-SUFFIX, bard.google.com
+DOMAIN-SUFFIX, waa-pa.clients6.google.com
+DOMAIN-SUFFIX, gstatic.com
+
+# DOMAIN-SUFFIX, vimeo.com
+# DOMAIN-SUFFIX, vimeocdn.com
+# DOMAIN-SUFFIX, hcaptcha.com
+# DOMAIN-SUFFIX, akamaized.com
+# DOMAIN-SUFFIX, cdn.auth0.com
