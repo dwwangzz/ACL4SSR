@@ -8,6 +8,7 @@ on:
 
 jobs:
   repo-sync:
+    name: Repo Fork
     runs-on: ubuntu-latest
     steps:
       - uses: tgymnich/fork-sync@v1.8
